@@ -2,6 +2,8 @@
  API-Customers
  Node.js/MySQL
  
+Este projeto é uma aplicação de API para gerenciamento de clientes utilizando Node.js e MySQL. Ele fornece um conjunto de funções para interagir com o banco de dados, manipulando registros 'customers'.
+ 
  db.js e index.js:
 
  Uso
